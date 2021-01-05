@@ -1,0 +1,11 @@
+main: com.earth418.veinminer.VeinMiner
+name: VeinMiner
+version: 1
+author: earth418
+commands:
+  vmintro:
+    description: Introduces the user to VeinMiner!
+    usage: /vmintro
+  vm:
+    description: Toggles veinminer to be either on or off.
+    usage: /vm
